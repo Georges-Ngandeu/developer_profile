@@ -1,34 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h1 align="center">NextJs Profile Demo</h1>
 
-## Getting Started
+  <p align="center">
+    This repo demonstrate a simple next App
+    <br />
+    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk">View Demo</a>
+    ·
+    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk">Report Bug</a>
+    ·
+    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk">Request Feature</a>
+  </p>
+</p>
 
-First, run the development server:
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#features">Features Implemented</a></li>
+    <li><a href="#technologies">Main Technologies Used</a></li>
+    <li><a href="#others-technologies">Others Technologies To be Added</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<!-- GETTING STARTED -->
+## Introduction [](#introduction)
+This project demonstrate an implementation of a NextJs App. Some effort has been put to implement the most used functionalities for a modern web developer online profile.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Feature implemented [](#features)
+<ul>
+    <li><a href="#">Developer Presentation</a></li>
+    <li><a href="#">Developer About Me</a></li>
+    <li><a href="#">Developer Resume</a></li>
+    <li><a href="#">Developer Portfolio</a></li>
+    <li><a href="#">Developer Contact Me</a></li>
+  </ul>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Main Technologies Used [](#technologies)
+<ul>
+    <li><a href="#">NextJs</a></li>
+</ul>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Others Technologies To be Added [](#others-technologies)
+<ul>
+    <li><a href="#">Node</a></li>
+    <li><a href="#">Docker</a></li>
+</ul>
+   
+## License [](#license)
+Distributed under the MIT License. See `LICENSE` for more information.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Contact [](#contact)
+Project Link: [https://github.com/Georges-Ngandeu/AfrikpayNodeSdk](https://github.com/Georges-Ngandeu/AfrikpayNodeSdk)
 
-## Learn More
+Email Address: [georgesngandeu@gmail.com](georgesngandeu@gmail.com)
 
-To learn more about Next.js, take a look at the following resources:
+## Acknowledgements [](#acknowledgements)
+* []()
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
