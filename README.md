@@ -6,14 +6,14 @@
   <p align="center">
     This repo demonstrate a simple next App
     <br />
-    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Georges-Ngandeu/developer_profile"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk">View Demo</a>
+    <a href="https://www.georgesngandeu.biitlab.org/">View Demo</a>
     ·
-    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk">Report Bug</a>
+    <a href="#">Report Bug</a>
     ·
-    <a href="https://github.com/Georges-Ngandeu/AfrikpayNodeSdk">Request Feature</a>
+    <a href="#">Request Feature</a>
   </p>
 </p>
 
@@ -59,7 +59,7 @@ This project demonstrate an implementation of a NextJs App. Some effort has been
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact [](#contact)
-Project Link: [https://github.com/Georges-Ngandeu/AfrikpayNodeSdk](https://github.com/Georges-Ngandeu/AfrikpayNodeSdk)
+Project Link: [https://github.com/Georges-Ngandeu/developer_profile](https://github.com/Georges-Ngandeu/developer_profile)
 
 Email Address: [georgesngandeu@gmail.com](georgesngandeu@gmail.com)
 
