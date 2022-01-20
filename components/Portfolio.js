@@ -33,12 +33,12 @@ const Portfolio = () => {
                                 <div className="isotope popup-gallery">
                                     <div className="grid-item web-design graphic-design clearfix">
                                         <div className="portfolio-item clearfix">
-                                            <img src="images/portfolio/01.jpg" alt="img04"/>
+                                            <img src="images/portfolio/mern_ecommerce.png" alt="img04"/>
                                             <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
+                                                <h4>Mern Ecommerce</h4>
+                                                <span>Modern ecommerce demonstration</span>
                                                 <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/01.jpg"><span className="ti-plus"></span></a>
+                                                    <a className="popup-img" target='_' href="https://www.mernecommerce.biitlab.org/"><span className="ti-plus"></span></a>
                                                     <a href="#"><span className="ti-link"></span></a>
                                                 </div>
                                             </div>
@@ -46,12 +46,12 @@ const Portfolio = () => {
                                     </div>
                                     <div className="grid-item web-design">
                                         <div className="portfolio-item">
-                                            <img src="images/portfolio/02.jpg" alt="img04"/>
+                                            <img src="images/portfolio/web_developer_profile.png" alt="img04"/>
                                             <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
+                                                <h4>Web developer profile</h4>
+                                                <span>NextJs demonstration app</span>
                                                 <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/02.jpg"><span className="ti-plus"></span></a>
+                                                    <a className="popup-img" target='_' href="https://www.georgesngandeu.biitlab.org/"><span className="ti-plus"></span></a>
                                                     <a href="#"><span className="ti-link"></span></a>
                                                 </div>
                                             </div>
@@ -59,12 +59,12 @@ const Portfolio = () => {
                                     </div>
                                     <div className="grid-item website-templates">
                                         <div className="portfolio-item">
-                                            <img src="images/portfolio/03.jpg" alt="img04"/>
+                                            <img src="images/portfolio/afrikpay_documentation.png" alt="img04"/>
                                             <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
+                                                <h4>Api documentation</h4>
+                                                <span>React demonstration</span>
                                                 <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/03.jpg"><span className="ti-plus"></span></a>
+                                                    <a className="popup-img" target='_' href="https://developer.afrikpay.com/"><span className="ti-plus"></span></a>
                                                     <a href="#"><span className="ti-link"></span></a>
                                                 </div>
                                             </div>
@@ -72,12 +72,12 @@ const Portfolio = () => {
                                     </div>
                                     <div className="grid-item graphic-design">
                                         <div className="portfolio-item">
-                                            <img src="images/portfolio/04.jpg" alt="img04"/>
+                                            <img src="images/portfolio/sales_afrikpay_dashboard.png" alt="img04"/>
                                             <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
+                                                <h4>Admin dashboard demonstration</h4>
+                                                <span>Angular and Flask demonstration</span>
                                                 <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/04.jpg"><span className="ti-plus"></span></a>
+                                                    <a className="popup-img" target='_' href="https://sales.afrikpay.com/"><span className="ti-plus"></span></a>
                                                     <a href="#"><span className="ti-link"></span></a>
                                                 </div>
                                             </div>
@@ -85,51 +85,12 @@ const Portfolio = () => {
                                     </div>
                                     <div className="grid-item web-design">
                                         <div className="portfolio-item">
-                                            <img src="images/portfolio/05.jpg" alt="img04"/>
+                                            <img src="images/portfolio/wordpress_custom.png" alt="img04"/>
                                             <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
+                                                <h4>Custom wordpress blog</h4>
+                                                <span>Custom wordpress theme demonstration</span>
                                                 <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/05.jpg"><span className="ti-plus"></span></a>
-                                                    <a href="#"><span className="ti-link"></span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="grid-item">
-                                        <div className="portfolio-item">
-                                            <img src="images/portfolio/06.jpg" alt="img04"/>
-                                            <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
-                                                <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/06.jpg"><span className="ti-plus"></span></a>
-                                                    <a href="#"><span className="ti-link"></span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="grid-item website-templates">
-                                        <div className="portfolio-item">
-                                            <img src="images/portfolio/07.jpg" alt="img04"/>
-                                            <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
-                                                <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/07.jpg"><span className="ti-plus"></span></a>
-                                                    <a href="#"><span className="ti-link"></span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="grid-item website-templates">
-                                        <div className="portfolio-item">
-                                            <img src="images/portfolio/08.jpg" alt="img04"/>
-                                            <div className="overlay">
-                                                <h4>work item one</h4>
-                                                <span>jones</span>
-                                                <div className="item-link">
-                                                    <a className="popup-img" href="images/portfolio/08.jpg"><span className="ti-plus"></span></a>
+                                                    <a className="popup-img" target='_' href="https://www.cabinetmanguele.biitlab.org/"><span className="ti-plus"></span></a>
                                                     <a href="#"><span className="ti-link"></span></a>
                                                 </div>
                                             </div>
